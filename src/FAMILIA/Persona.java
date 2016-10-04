@@ -1,4 +1,4 @@
-package FAMILIA;
+/*package FAMILIA;
 
 public class Persona {
 
@@ -51,3 +51,4 @@ public class Persona {
     }
 
 }
+*/

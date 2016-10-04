@@ -1,4 +1,4 @@
-package FAMILIA;
+/*package FAMILIA;
 
 public class Registro {
 
@@ -20,3 +20,4 @@ public class Registro {
     }
 
 }
+*/
